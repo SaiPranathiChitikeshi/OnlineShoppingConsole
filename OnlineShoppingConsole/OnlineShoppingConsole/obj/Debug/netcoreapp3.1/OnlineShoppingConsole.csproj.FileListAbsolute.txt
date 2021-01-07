@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.exe
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.dll
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\bin\Debug\netcoreapp3.1\OnlineShoppingConsole.pdb
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.dll
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.pdb
+C:\Users\Sai Baba\Desktop\innRoad\OnlineShoppingConsole\OnlineShoppingConsole\obj\Debug\netcoreapp3.1\OnlineShoppingConsole.genruntimeconfig.cache
